@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the present Queen Mary, Richard Stafford, a scribe of Jesus Christ, desireth temporal preservation and eternal salvation</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93758</idno>
+            <idno type="STC">Wing S5147</idno>
+            <idno type="STC">ESTC R42920</idno>
+            <idno type="EEBO-CITATION">38875944</idno>
+            <idno type="OCLC">ocm 38875944</idno>
+            <idno type="VID">152404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the present Queen Mary, Richard Stafford, a scribe of Jesus Christ, desireth temporal preservation and eternal salvation</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152404:1" rendition="simple:additions"/>
+            <head>To the Preſent <hi>QUEEN MARY</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>Richard Stafford,</hi> a Scribe of Jeſus Chriſt, deſireth Temporal Preſervation and Eternal Salvation.</signed>
+            </opener>
+            <p>THE Sence and Compaſſion of what is likely to be thy final Condition, doth con<g ref="char:EOLhyphen"/>ſtrain me to write thus unto <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and to admoniſh thee with the following <hi>Words of Truth.</hi> I do ſee with an <hi>Eye of Faith,</hi> That <hi>They which do iniquity, ſhall be caſt into a furnace of fire, there ſhall be wailing and gnaſhing of Teeth,</hi> Mat. 13.41, 42. For if it is not ſo, Jeſus Chriſt muſt be a Liar and Deceiver: But as certain as he is Chriſt, <hi>viz.</hi> the Anointed One of God, there ſhall be ſuch a thing: And he therefore made it known to warn and teſtifie unto all the Sons and Daughters of Men, <hi>That they do not Iniquity;</hi> and ſo they ſhall not come to that Place of Puniſhment and Torment.</p>
+            <p>And ſeeing that thou thy ſelf haſt ſo long, and doſt yet live in and practice <hi>Iniquity</hi> (or In-equity) thou art therefore concerned herein; and thou art in great danger of future Con<g ref="char:EOLhyphen"/>demnation, and Eternal Miſery: Which will be upon thee, unleſs thou doſt confeſs and for<g ref="char:EOLhyphen"/>ſake <hi>thy own Iniquity</hi>) when thy ſoul is ſlipt out of this Tabernacle of Fleſh, and muſt appear before that God <hi>with whom there is no reſpect of Perſons,</hi> and who hath given ſuch a Law to Mankind of every Nation, Country, and Language, and to all the Generations which ſhall paſs through this Earth, as is declared in Scripture, as thy own Conſcience, and the <hi>Spirit of thy Mind</hi> may ſomewhat judge, and conceive hereof before hand: for that would willingly ſet thee ſafe as to the dreadful and doubtful uncertainty of thy own Eternal ſtate ann Condi<g ref="char:EOLhyphen"/>tion, if thou wouldeſt ſet thy Conſcience <hi>as in the ſight of God,</hi> and wouldeſt ſuffer it to have its proper, full and perfect work. Hearken not, or be ſure not to truſt thine own Everlaſting Happineſs or Miſery, to the ſuggeſtions and ſayings of thoſe who call themſelves <hi>Biſhops</hi> and <hi>O<g ref="char:EOLhyphen"/>verſeers;</hi> who ſay they are ſent forth to <hi>Miniſter unto thy Salvation,</hi> and that of others. But thou art cautioned again, not to hearken unto, or at leaſt not to truſt unto them. For the <hi>Enemy</hi> of Souls hath raiſed a Miſt, and caſt a <hi>dead ſleep</hi> over thoſe <hi>Watchmen,</hi> that they are become <hi>blind,</hi> and ſee only on the worldly corrupt ſide, or <hi>They are dumb Dogs, they cannot bark ſleeping, lying down loving to ſlumber: They all look to their own way, every one for his Gain from his Quarter, and ſo they are deſtitute of the truth, ſuppoſing that Gain is Godlineſs:</hi> Their principal buſineſs is how to keep or get Preferment; They ſtudy and endeavour how to pleaſe and not to offend; though it be to ſooth and be ſilent as to the ſin and tranſgreſſion of the Rich and Mighty People, <hi>as if they were only to have their Portion in this Life, and after Death to ſuf<g ref="char:EOLhyphen"/>fer a greater Puniſhment and Miſery.</hi> For the Biſhops and Paſtors ſhould ſeek to <hi>turn away Ini<g ref="char:EOLhyphen"/>quity from</hi> Jacob, and to <hi>turn many to Righteouſneſs,</hi> but inſtead of that <hi>they do ſtrengthen the hands of evil doers, that none doth return from his Wickedneſs by promiſing him Life,</hi> by vainly aſ<g ref="char:EOLhyphen"/>ſuring People, that they ſhall go to Heaven, though they go on in <hi>their own ways, and after their own Thoughts.</hi> But notwithſtanding all the <hi>Multitude</hi> of our Modern Phariſees, who by reaſon of that, and their <hi>Juſtifying themſelves before Men,</hi> they have the faſhion as yet on their ſide, the Word and Judgment of God doth pronounce, and will determine them to be <hi>Mi<g ref="char:EOLhyphen"/>niſters of Satan, transformed into Miniſters of Righteouſneſs;</hi> for they do rather Miniſter unto the deſtruction of Souls, by preaching and ſpeaking for the <hi>deceiveableneſs of <g ref="char:V">Ʋ</g>nrighteouſneſs,</hi> ſo long, that day by day they periſh in it. And they do rather keep People in, than lead them out of the <hi>Myſtery of Iniquity.</hi>
+            </p>
+            <pb n="2" facs="tcp:152404:2"/>
+            <p>But ſetting aſide all deceitful workers, and corrupt handlers thereof, hearken and attend unto what the Scripture <hi>(which is able to make thee Wiſe unto Salvation)</hi> ſaith expreſly and clearly of it ſelf: For as <hi>Laban</hi> ſaid, <hi>It muſt not be ſo done in our Countrey, to give the younger be<g ref="char:EOLhyphen"/>fore the firſt-born,</hi> Gen. 29.25. So is the current, moaning and requiring of the whole Law of God; for it is not conſiſtent with that Righteouſneſs and EQUITY where with the Lord will judge the World, Pſal. 98.9. <hi>It muſt not, or it ought not to be ſo done in this Nation of the Earth for thee who art ſprung out of the Loins of thy Father, to have his Right and Inheritance before his Death, or willing Reſignation.</hi> The ſame I have more at large demonſtrated in my Diſcourſe on 2 Cor. 10.4. and more particularly in page 21. to which I refer thee, and beſeech thee to read and conſider what is there noted out of the <hi>Scriptures of Truth,</hi> as thou wouldeſt wil<g ref="char:EOLhyphen"/>lingly obtain Eternal Salvation, and avoid Everlaſting Miſery.</p>
+            <p>And it being the declaration of the Mind and Will of God, that ſuch a thing is an <hi>Iniquity,</hi> viz. a thing not equal; for thee, who art his Creature, to act yet contrary (let me tell thee plainly and be not angry thereat; for the fault is in thy ſelf who doſt commit this Iniquity, and not in me who do only Admoniſh of and Reprove the ſame:) This is downright Diſobedi<g ref="char:EOLhyphen"/>ence and Rebellion againſt thy God. In which if thou continueſt, thou art now under his Wrath and Diſpleaſure; and when thy Breath is out of thy Noſtrils, thou wilt fall under his ſevere Puniſhment, and <hi>ſuffer the Vengeance of Eternal fire;</hi> for that will be allotted unto thee, if thou doſt now in the days of thy Fleſh <hi>give thy ſelf over,</hi> Jude 7. to the things which are contrary to his Law. Either thou wilt Repent of this thy ſin and Diſobedience, or thou wilt not. If thou wilt not obey God who commands, That <hi>the Wicked reſtore the Pledge, and give again what he had Robbed,</hi> Ezek. 33.15. Thou wilt be in certain danger when thou dieſt to be Mi<g ref="char:EOLhyphen"/>ſerable for ever: But if thou doſt come to Repentance, the ſooner thou doſt, it will be bet<g ref="char:EOLhyphen"/>ter for thee throughout all Eternity. For the ſooner any one comes to Repentance and lives in Obedience, God is the better pleaſed with that Man or Woman, and he will give to ſuch a more full Reward hereafter. Even the Souls will diſcern and perceive this ſo far, that even when they are let ſlip into Eternity, they will wiſh that they had ſerved and obeyed the Lord in thoſe days of their Fleſh, in which they did continue in Deſpiſing and Tranſgreſſion. So that from the Day of the Date hereof (<hi>October</hi> 19. 1691.) or rather from the day that <hi>this Word</hi> is delivered and made known unto thee, Thou art hereby put in mind and exhorted; yea, thou art Charged and Commanded from the Law of the Lord thy God, to give up again and reſign thy Kingdom and Inheritance, unto him <hi>whoſe Right it is;</hi> and then thou ſhalt find favour in the day of thy Death. Thou art to do this purely out of Conſcience and fear of the Lord, and only out of Obedience to the Word of his Grace, and for the Salvation of thine Immortal Soul.</p>
+            <p>For the Law of God cannot be altered, or reverſed, or diſpenſed withal; nor yet may People think by a ſtricter Obſervation of ſome of the Commandments, to <hi>make atonement</hi> for the neglect and violation of others. Thou didſt well in putting out an Order for the ſtrict ob<g ref="char:EOLhyphen"/>ſervation of the <hi>Lord's Day.</hi> For <hi>notwithſtanding every way, whether in pretence or in truth,</hi> God's Laws is obeyed, it is better than the open Contempt and Violation thereof. If in the deep of thy heart, thou doſt not much care whither God's Commandments are kept or not, but thou didſt thus to deceive and ingratiate thy ſelf with Godly and well-meaning People, and here<g ref="char:EOLhyphen"/>by to ſtrengthen the more (though it is not poſſible to make Right) thy preſent Ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le; all this is <hi>Groſs Hypocriſy.</hi> Shall not God ſearch this out? <hi>For he knows the ſecrets of the Heart.</hi> But if thou didſt this out of a <hi>Good Mind towards God,</hi> and out of a deſire for the <hi>ſaving of thine own Soul,</hi> then thou wilt hearken unto, and receive this further <hi>Word of Inſtruction,</hi> viz. As we muſt come out of <hi>Egypt</hi> quite, and <hi>not leave an Hoof behind,</hi> Exod. 10.26 So if thou wouldſt arrive at the <hi>Heavenly Canaan,</hi> thou muſt abſtain from every Tranſgreſſion of any other Command<g ref="char:EOLhyphen"/>ments of the two Tables. Thou art not to pick and chooſe, or Article with God which to do or obſerve, and which to neglect; but if thou wouldſt be where <hi>David</hi> is, thou muſt practiſe
+<pb n="3" facs="tcp:152404:2"/>the ſame as He did, <hi>For all his Judgments were before me, and I did not put away his Statutes from me,</hi> Pſal. 18.22. It is not ſimply the Obſervation of a Monthly Faſt, which is pleaſing and acceptable unto God: For <hi>Jeſabel</hi> did <hi>proclaim a Faſt,</hi> when ſhe was to take away <hi>Naboths</hi> Vineyard. And the Spirit of God ſaith expreſly by <hi>Jeremiah</hi> 14.12. <hi>When they faſt I will not hear their Cry, and when they offer burnt Offerings and an Oblation, I will not accept them, but I will conſume them by the ſword,</hi> which hath been exactly fulfill'd in many choſen Men of <hi>England,</hi> who have been ſent out into the Neighbouring Nations, or into Ships, and there they have dyed, or been killed by the Grievouſneſs and Inſtruments of War. And by the truth of that which we now ſee and know, it is a certain token that God will not <hi>hear</hi> and <hi>accept</hi> all your ſeveral Acts of Religion and Worſhip: But as he ſpeaks in the tenth verſe of the ſame Chap<g ref="char:EOLhyphen"/>ter, <hi>He will remember your Iniquity, and viſit your Sins.</hi> For though to forget and utterly take off from the Remembrance of them, ye mention only King <hi>James;</hi> and to excuſe your ſelves, ye ſpeak <hi>Reproachfully and Contemptuouſly</hi> of him, againſt whom <hi>ye have dealt treacherouſly,</hi> ſee <hi>Mal.</hi> 2.14. <hi>Micah.</hi> 7.6. yet he is thy own natural Father: But chiefly, He is a Creature whom God hath placed in ſuch a Relation, and concerning whom he hath given ſuch Laws, Orders and Rules, which the People have tranſgreſſed, and done otherwiſe than they ſhewed and commanded. He was our <hi>King,</hi> but our People did <hi>not keep his Commandments,</hi> nor <hi>re<g ref="char:EOLhyphen"/>gard the Oath of God,</hi> Eccleſ. 8.2. which they had taken unto him, <hi>ſo that your ſins are not againſt</hi> King James, <hi>but againſt God.</hi> The Prophets throughout their Writings, do abundant<g ref="char:EOLhyphen"/>ly ſpeak againſt <hi>Sin, Iniquity</hi> and <hi>Trangreſſion;</hi> all which which are general things, which are reduced into ſuch and ſuch particular Acts. And here again the People fly out, and hope to excuſe and ſave themſelves. But God anſwers them in ſhort, <hi>Wherefore will ye plead with me, ye all have tranſgreſſed againſt me ſaith the Lord the Lord of Hoſts,</hi> Jer. 2.29. And ſince it is Tranſgreſſion, What an unreaſonable and unaccountable thing thing is it? That any Creature ſhould continue and perſiſt therein? For a Worm to wriggle with its Maker, to ſtand as it were at plain Oppoſition and Defiance with the great Creator and Governour of the World; That a dying Creature of five or ſix Foot long, ſhould os yet <hi>exalt it ſelf,</hi> Exod. 9.17. againſt the great God, unto whom the whole World is but as the duſt of the balance, and who is from Everlaſtigg to Everlaſting. No Creature would dare or preſume to do according to this manner, if God were not <hi>out of ſight,</hi> and if he did not keep ſilence; and alſo it is be<g ref="char:EOLhyphen"/>cauſe he doth render preſent puniſhment: But for theſe reaſons the Children of Men are ſo refractory and contemptuous againſt him. Whereas it would be better for them if they did conſider and fear, how that the <hi>ſame word,</hi> which doth mention, how that <hi>no Man hath feen God at any time,</hi> John 1.18. God doth <hi>hold his Peac even of old,</hi> I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a. 57.11. <hi>That ſentence againſt an evil Work is not executed ſpeedily,</hi> Eceleſ. 8.11. The ſame word ſpeaketh expreſly of the <hi>Glorious appearing of the great God,</hi> Titus 2.13. <hi>That the Lord ſhall appear to he Joy of ſome, and the ſhame of others,</hi> as may be ſeen, Iſa. 66.7. <hi>Our God ſhall come, and ſhall not keep ſi<g ref="char:EOLhyphen"/>lence,</hi> Pſal. 50.3. <hi>And I will puniſh the World for their Evil, and the Wicked for their Iniquity, and I will cauſe the Arrogancy of the Proud to ceaſe, and will lay low the Haughtineſs of the Terrible.</hi> Iſa. 13.11. which laſt hath already been fulfill'd in the foregoing Generations; and is daily now fulfilling in the ſeveral Perſons of Men and Women, as they die and go away, and then doth the Word begin to be fulfill'd, <hi>and theſe ſhall go away into Everlaſting puniſh<g ref="char:EOLhyphen"/>ment, but the Righteous into Life Eternal:</hi> Mat. 25.46.</p>
+            <p>
+               <hi>Is it not for thee, O Mary, to obey God?</hi> If thou doſt, it will be <hi>accepted:</hi> But if not, <hi>Sin lieth at the Door;</hi> which (when thy Breath is out of thy Body) will let into Everlaſting Miſery: for <hi>this Word</hi> (which is truly gather'd out of Scripture, <hi>is ſtedfaſt, and every Diſobedience and Tranſgreſſion receiveth a juſt Recompence of Reward.</hi> He that Believeth and Obeyeth, <hi>ſhall be ſav<g ref="char:EOLhyphen"/>ed;</hi> but he that Believeth not, nor yet Obeyeth, <hi>ſhall be damned.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="4" facs="tcp:152404:3" rendition="simple:additions"/>
+            <head>The <hi>Poſtſcript,</hi> which is laid before thee, whither thou Readeſt it or not, howe<g ref="char:EOLhyphen"/>ver it remains written, that thou mayeſt read it whenſoever thou wilt.</head>
+            <p>
+               <hi>FOR</hi> Herod <hi>himſelf had ſent forth, and laid hold upon</hi> John, <hi>and bound him in Priſon for</hi> Hero<g ref="char:EOLhyphen"/>dias <hi>his Brother</hi> Philip's <hi>Wife, for</hi> John <hi>ſaid unto</hi> Herod, <hi>it is not Lawful for thee to have thy Brother's Wife,</hi> Mark 6.17.18. In like manner, thou mayeſt ſend forth again, and put <hi>Richard Stafford in Priſon,</hi> for <hi>Richard Stafford</hi> hath ſaid and publiſhed it; and he doth again hereby ſay and publiſh the ſame, <hi>That it is not Lawful for thee to have thy Father's Kingdom before his Death, or willing Reſignation.</hi> It was not ſo much <hi>John the Baptiſt,</hi> that ſaid ſo in his time; nor yet <hi>Richard Stafford</hi> who writeth and affirmeth after this manner: But the very <hi>Law of God,</hi> (which is mention'd by <hi>John</hi> and myſelf) ſaith ſo. He had but one or two texts, <hi>viz.</hi> Lev. 18.15. and 20.11. But I have one half of the <hi>Ten Comman<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ments,</hi> which were given on <hi>Mount Sinah,</hi> engraven in Tables of Stone, and alſo written <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Fleſhly Tables of our Hearts, (as we might perceive i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the vail of Tranſgreſſion <hi>was done away</hi>) and alſo many and ſundry places of God's word beſides; and all theſe give atteſtation to what I have written. Now it is one of the higheſt degrees of ſin and diſobedience, when any Man or Woman ſhall not only be contented, and reſolved to do contrary, or otherwiſe then the <hi>Law of God</hi> commands and requires; but they will further impriſon, puniſh, or put to death him who ſhall make mention of this <hi>Law of God,</hi> and confront it to their doings. And therefore the Spirlt <hi>who ſearcheth all things</hi> and knoweth where the very provocation of ſin lies, doth elſewhere rehearſe it up more particularly. <hi>But</hi> Herod <hi>the Tetrarch being Reproved by him for</hi> Herodias <hi>his Brother</hi> Philip<hi>'s Wife, and for all the Evils which</hi> Herod <hi>had done,</hi> Added yet this above all, <hi>That he ſhut up</hi> John <hi>in Priſon,</hi> Luke 3.19, 20. Both <hi>Herod</hi> and <hi>John Baptist</hi> are now gone off from the Stage of this World; but now it would be better for <hi>Herod</hi> if he had never put <hi>John</hi> into Pri<g ref="char:EOLhyphen"/>ſon; ſo both <hi>Mary Stuart,</hi> and <hi>Richard Stafford</hi> are now going off from this Earth, and I do here tell and warn thee before hand, That it would be better for thee <hi>(Mary)</hi> if neither thy ſelf, or thy Miniſters and Servants under thee, had never, or ſhall yet forbear to <hi>put</hi> Richard Stafford, <hi>the Scribe, in Priſon,</hi> for no other fault, but only <hi>for writing the Law and Truth of God.</hi> It is near the ſame, whether this was, or ſhall yet be done by thine Eſpecial Comwand, or by thy ſilent (which gives conſent) Will and Pleaſure, and then it is by the Officiouſneſs of thoſe under thee. But take ye all ho<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to your ſelves and fear, leaſt the ſame Law and Truth of God (who doth now all th<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s and Years of your Life <hi>ſuffee your Manners,</hi> Acts 13.18. in this World, but when they are ended.) I ſay again, Take ye all heed and fear, leaſt the <hi>ſame Law and Truth</hi> of our God, ſhould <hi>reſerve</hi> and bind ye <hi>in everlaſting Chains, under Darkneſs, unto the Judgment of the Great Day,</hi> and from thence ye be <hi>caſt into Hell.</hi> Whereof as Earthly Priſons are ſome kind of Repreſentation, ſo they do as much come ſhort of the real Torment and Miſery thereof; as now the light and diſtant heat doth come ſhort of, and is leſs than the <hi>fire</hi> it ſelf. For as they are refreſhing and comfortable, when the laſt is nothing but pain and devouring: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o there is a ſweetneſs in <hi>ſuffering for the Truth and Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> which doth ariſe from the ſence and aſſurance of a greater future Glory and Re<g ref="char:EOLhyphen"/>ward; when they that inflict it, are hereby liable unto greater Condemnation, and they ſhall feel a more exceeding and enduring Miſery, which ſhall be without</p>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
